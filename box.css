@@ -1,0 +1,93 @@
+{
+    box-sizing: border-box;
+}
+body{
+color: white;
+background-color: rgb(236,65,27);
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+    
+.div_bir{
+    text-align: center;
+    line-height: 150px;
+}
+.div_iki{
+    text-align: center;
+    line-height: 150px;
+}
+.div_uc{
+    text-align: center;
+    line-height: 150px;
+}
+#par11{
+    border-style: none ;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 30px ;
+}
+#par12{
+    border-style: dotted ;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 30px ;
+    border-width:5px;
+}
+#par13{
+    border-style: dashed ;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 30px ;
+    border-width:5px
+}
+#par14{
+    border-style: solid ;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 30px ;
+    border-width:5px
+}
+#par15{
+    border-style: double ;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 30px;
+    border-width:5px 
+}
+#par16{
+    border-style: groove ;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 30px;
+    border-width:5px
+}
+#par17{
+    border-style: ridge ;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 30px;
+    border-width:5px
+}
+#par18{
+    border-style: inset ;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 30px;
+    border-width:5px
+}
+#par19{
+    border-style: outset ;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 30px;
+    border-width:5px
+}
